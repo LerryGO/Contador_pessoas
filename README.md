@@ -1,16 +1,9 @@
-# contador
+![WhatsApp Image 2021-11-19 at 19 40 31](https://user-images.githubusercontent.com/56898536/142863573-76b54fe2-52a7-49ea-afd8-daf9d96b55bc.jpeg)
 
-A new Flutter project.
+# Contador de Pessoas
 
-## Getting Started
+Projeto feito em Flutter com o objetivo de criar um aplicativo que conta quantas pessoas estão no ambiente, com o limite de 20 pessoas.
+Projeto muito utilizado para comércios devido ao Covid.
 
-This project is a starting point for a Flutter application.
+## Baseado no curso de DanielCiolfi
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
